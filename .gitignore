@@ -1,0 +1,6 @@
+# Ignore Python virtual environment
+ai-agent/
+
+# Ignore environment variables
+.env
+
