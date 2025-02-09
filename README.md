@@ -37,8 +37,8 @@ This project simulates an AI-driven debate tournament where different AI agentsâ
 2. Create and activate a virtual environment:
     ```sh
     python3 -m venv venv
-source venv/bin/activate  # On macOS/Linux
-venv\Scripts\activate    # On Windows
+    source venv/bin/activate  # On macOS/Linux
+    venv\Scripts\activate    # On Windows
     ```
 
 3. Install the required dependencies:
