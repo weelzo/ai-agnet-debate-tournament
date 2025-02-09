@@ -78,7 +78,7 @@ To run it:
 ! In Progress  ➔ RAG fact-checking, custom personas
 - Planned      ➔ Multi-judge panels, bias detection
 ```
-[View detailed roadmap →](README.md)
+[View detailed roadmap →](Roadmap.md)
 
 ## App Screenshot
 ![App Screenshot](docs/screenshots/ss1.png)
