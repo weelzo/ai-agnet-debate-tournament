@@ -1,6 +1,6 @@
 # AI Debate Tournament Framework Roadmap
 
-## Phase 1: Core MVP (Q3-Q4 2024)
+## Phase 1: Core MVP (Q1 2024)
 - **Objective**: Validate basic debate mechanics
 - **Milestones**:
   - 🗣️ Role definitions (Proponent/Opponent/Moderator/Judge)
@@ -8,14 +8,14 @@
   - 📊 Basic scoring system (logic/evidence/clarity)
   - 🚀 GitHub MVP release
 
-## Phase 2: Enhanced Functionality (2025)
+## Phase 2: Enhanced Functionality (Q2 2025)
 - **Milestones**:
   - 🔍 RAG integration for fact-checking
   - 🎭 Custom personas via LoRA adapters
   - 👥 Multi-judge evaluation panel
   - 💰 Cost optimization (GPT-4 + LLaMA-3 hybrid)
 
-## Phase 3: Real-World Applications (2025)
+## Phase 3: Real-World Applications (Q3-4 2025)
 - **Milestones**:
   - 🏥 Domain templates (Healthcare/Education/Policy)
   - 🖥️ Web dashboard for non-technical users
@@ -37,5 +37,3 @@
 - 🔍 Audit trails for all decisions
 - 📜 Public debate logs (anonymized)
 - 🚨 "Circuit breaker" safety mechanism
-
-[View Detailed Development Timeline](./ROADMAP_DETAILS.md)
