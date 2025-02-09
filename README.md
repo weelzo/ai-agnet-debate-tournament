@@ -8,7 +8,7 @@
 
 </div>
 
-A dynamic framework for simulating structured debates between AI agents. Features role-specific agents (Proponent, Opponent, Moderator, Judge) powered by GPT-4, designed to explore complex topics through adversarial deliberation.
+This project simulates an AI-driven debate tournament where different AI agents—Proponent, Opponent, Moderator, and Judge—interact to debate various topics. The agents use OpenAI's GPT-4 model to generate responses and evaluate arguments.
 
 **Key Features**:
 - 🗣️ Multi-agent debate protocol with distinct roles
