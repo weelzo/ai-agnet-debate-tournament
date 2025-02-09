@@ -8,9 +8,16 @@
 
 </div>
 
-This project simulates an AI-driven debate tournament where different AI agents—Proponent, Opponent, Moderator, and Judge—interact to debate various topics. The agents use OpenAI's GPT-4 model to generate responses and evaluate arguments.
+A dynamic framework for simulating structured debates between AI agents. Features role-specific agents (Proponent, Opponent, Moderator, Judge) powered by GPT-4, designed to explore complex topics through adversarial deliberation.
 
-## Project Structure
+**Key Features**:
+- 🗣️ Multi-agent debate protocol with distinct roles
+- ⚖️ Automated argument evaluation system
+- 📊 Debate history tracking and analysis
+- 🌐 REST API + Streamlit web interface
+
+
+## 🏗️  Project Structure
 
 ```
 ├── debate_agents/
@@ -26,7 +33,7 @@ This project simulates an AI-driven debate tournament where different AI agents�
     └── screenshots/
 ```
 
-## Setup
+## 🚀 Getting Started
 
 1. Clone the repository:
    ```sh
@@ -51,7 +58,7 @@ This project simulates an AI-driven debate tournament where different AI agents�
     OPENAI_API_KEY=your_openai_api_key
     ```
 
-## Running the Application
+## 🖥️ Running the Application
 
 To run it:
 1. FastAPI Server:
@@ -64,6 +71,15 @@ To run it:
    streamlit run app.py
     ```
 
+
+## 🌟 Features & Roadmap
+```
++ Implemented  ➔ Basic debate flow, GPT-4 integration
+! In Progress  ➔ RAG fact-checking, custom personas
+- Planned      ➔ Multi-judge panels, bias detection
+```
+[View detailed roadmap →](README.md)
+
 ## App Screenshot
 ![App Screenshot](docs/screenshots/ss1.png)
 
@@ -71,11 +87,11 @@ To run it:
 
 For example debates between the AI agents, you can view the debate examples in this [PDF](docs/debate_examples)
 
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
+## 📄 License
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-## Contributing
+## 🤝 Contributing
 Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
 
-## Contact
+## 📧 Contact
 For any questions or inquiries, please contact wael.sam42@gmail.com.
